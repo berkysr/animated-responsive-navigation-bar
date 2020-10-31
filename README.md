@@ -1,5 +1,5 @@
 # animated-responsive-navigation-bar
-Animated responsive navigation bar made with HTML5, CSS and JS
+Animated responsive navigation bar made with HTML5, CSS and JS.
 On this project navigation bar is changes depending on the size of the device. While using a device smaller than 768px, navigation bar will be hidden and can be toggled on by a button.
 
 ---
