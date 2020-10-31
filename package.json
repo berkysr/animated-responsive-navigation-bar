@@ -1,0 +1,28 @@
+{
+  "name": "animated-responsive-navigation-bar",
+  "version": "1.0.0",
+  "description": "Animated responsive navigation bar made with JS, HTML5 and CSS3.",
+  "main": "\u001b[C\u001bassetassets/javascript/main.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkysr/animated-responsive-navigation-bar.git"
+  },
+  "keywords": [
+    "javascript",
+    "practice",
+    "animated",
+    "form"
+  ],
+  "author": "Berk YASAR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berkysr/animated-responsive-navigation-bar.git/issues"
+  },
+  "homepage": "https://github.com/berkysr/animated-responsive-navigation-bar.git#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
